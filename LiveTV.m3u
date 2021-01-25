@@ -18,7 +18,7 @@ https://raw.githubusercontent.com/ariez4999/xIPTV/master/M3U8/Token/8TV.m3u8
 https://raw.githubusercontent.com/ariez4999/xIPTV/master/M3U8/Token/TV9.m3u8
 
 #EXTINF:-1 tvg-id="DramaSangat.my" tvg-name="Drama Sangat" tvg-logo="https://baseimages.tonton.com.my/1546920448175_drama_sangat_logo.png" tvg-chno="7" channel-id="7" group-title="MYSG",Drama Sangat
-https://raw.githubusercontent.com/ariez4999/xIPTV/master/M3U8/Token/DramaSangat.m3u8x
+https://raw.githubusercontent.com/ariez4999/xIPTV/master/M3U8/Token/DramaSangat.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
