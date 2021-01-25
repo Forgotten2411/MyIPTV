@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://bit.ly/seEPG1" x-tvg-url="https://bit.ly/seEPG1"
+#EXTM3U
 #EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/95_144.png" tvg-chno="1" channel-id="1" group-title="MYSG",TV1
 https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
 
