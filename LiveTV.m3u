@@ -42,7 +42,7 @@ http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
 http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m519b9f598a4817711682&ct=17934&tsum=4d6f9c9e7b70fd38bc41b5ddd075b526
 
 #EXTINF:-1 tvg-id="Ceria.my" tvg-name="Astro Ceria" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png" tvg-chno="16" channel-id="16" tvg-group="MY/SG" group-title="MYSG",Astro Ceria
-http://ts.lemmovie.com/ec85b2d2-8539-4d40-bfc2-64abcf7e8984.m3u8
+http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Oasis.my" tvg-name="Astro Oasis" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/70_144.png" tvg-chno="47" channel-id="47" group-title="MYSG",Astro Oasis
 https://github.com/androidrepublica/playlist/raw/master/SiaranOff.mp4
