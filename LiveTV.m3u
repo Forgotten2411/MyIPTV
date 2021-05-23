@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/95_144.png" tvg-chno="1" channel-id="1" group-title="MYSG",TV1
-https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
+https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV2.my" tvg-name="TV2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png" tvg-chno="2" channel-id="2" group-title="MYSG",TV2
-https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
+https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" tvg-chno="3" channel-id="3" group-title="MYSG",TV3
 https://raw.githubusercontent.com/ariez4999/xIPTV/master/M3U8/Token/TV3.m3u8|Referer=https://www.dailymotion.com
@@ -21,7 +21,7 @@ https://raw.githubusercontent.com/ariez4999/xIPTV/master/M3U8/Token/TV9.m3u8
 https://raw.githubusercontent.com/ariez4999/xIPTV/master/M3U8/Token/DramaSangat.m3u8
 
 #EXTINF:-1 tvg-id="Okey.my" tvg-name="OKEY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/97_144.png" tvg-chno="9" channel-id="9" group-title="MYSG",OKEY
-https://rtmokey.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
+https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Awani.my" tvg-name="Astro Awani" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/84_144.png" tvg-chno="59" channel-id="59" group-title="MYSG",Astro Awani
 http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
@@ -53,6 +53,9 @@ http://fr-c.movply.stream/hls/Colors.m3u8
 #EXTINF:-1 tvg-id="Naura.my" tvg-name="Astro Naura" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/299_144.png" tvg-chno="19" channel-id="19" tvg-group="MY/SG" group-title="MYSG",Astro Naura
 http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
 
+#EXTINF:-1 tvg-ID="Al-Hijrah" tvg-name="Al-Hijrah" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/al-hijrah.png" group-title="Malaysia",TV ALHIJRAH
+http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
+
 #EXTINF:-1 tvg-id="GoShop.my" tvg-name="Astro Go" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/192_144.png" tvg-chno="20" channel-id="20" tvg-group="MY/SG" group-title="MYSG",Astro Go
 http://agplayback03.aotg-video.astro.com.my/CH3/master_GOSHOP3_04.m3u8
 
@@ -69,7 +72,7 @@ http://iptvtree.net:8080/F11664/1704fb2b/195647?play_token=JCjAx1bT5E
 http://freeview.mywire.org:9090/streams/cbeebies.m3u8
 
 #EXTINF:-1 tvg-id="SuperSport.my" tvg-name="RTM Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" tvg-chno="42" channel-id="42" group-title="MYSG",RTM Sports HD
-http://freeview.mywire.org:9090/streams/rtmsports.m3u8|Referer=https://myklik.rtm.gov.my
+https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cricket.my" tvg-name="Astro Cricket" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png" tvg-chno="44" channel-id="44" group-title="MYSG",Astro Cricket
 http://stream-e30453a4b.nmbs.top/m3u/Sports/0349462cac.m3u8|User-Agent=VLC
@@ -201,8 +204,5 @@ http://1.9.62.158/PLTV/88888888/224/3221227558/3221227558.mpd
 #EXTINF:-1 tvg-ID=".MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/sensasi.png" group-title="Malaysia",SENSASI
 http://1.9.62.158/PLTV/88888888/224/3221227598/3221227598.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=ODRjYzg4NTgtOTM0OS0zY2VkLWJjMTYtYWI1OTU4MzRiNmY3
-#EXTINF:-1 tvg-ID=".MY" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/al-hijrah.png" group-title="Malaysia",TV ALHIJRAH
-http://1.9.62.158/PLTV/88888888/224/3221227507/3221227507.mpd
+
 
