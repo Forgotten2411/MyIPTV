@@ -1,87 +1,111 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/tv1.png", TV1
+#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/logo/tv1.png", TV1
 https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/tv2.png", TV2
+#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/logo/tv2.png", TV2
 https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/tv3.png", TV3
+#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/logo/tv3.png", TV3
 https://raw.githubusercontent.com/ariez4999/xIPTV/master/M3U8/Token/TV3.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/ntv7.png", NTV7
+#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/logo/ntv7.png", NTV7
 https://raw.githubusercontent.com/ariez4999/xIPTV/master/M3U8/Token/NTV7.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/8tv.png", 8TV
+#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/logo/8tv.png", 8TV
 https://raw.githubusercontent.com/ariez4999/xIPTV/master/M3U8/Token/8TV.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/tv9.png", TV9
+#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/logo/tv9.png", TV9
 https://raw.githubusercontent.com/ariez4999/xIPTV/master/M3U8/Token/TV9.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/okey.png", OKEY
+#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/logo/okey.png", OKEY
 https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/RTM Sports.png", RTM Sports
+#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/logo/RTM Sports.png", RTM Sports
 https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/Berita RTM.png", Berita RTM
+#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/logo/Berita RTM.png", Berita RTM
 https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/tv-alhijrah.png", Al-Hijrah
+#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/logo/tv-alhijrah.png", Al-Hijrah
 http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/bernama.png", Bernama TV
+#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/logo/bernama.png", Bernama TV
 http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/astro_awani.png", Astro Awani
+#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/logo/astro_awani.png", Astro Awani
 http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
 
-#EXTINF:0,Astro Ria
+#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/logo/", Astro Ria
 http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
-#EXTINF:0,Astro Prima
+
+#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/logo/", Astro Prima
 http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
-#EXTINF:0,Astro Oasis
+
+#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/logo/", Astro Oasis
 http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
-#EXTINF:0,Astro Warna
+
+#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/logo/", Astro Warna
 http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
-#EXTINF:0,Astro Citra
+
+#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/logo/", Astro Citra
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
-#EXTINF:0,Astro Rania
+
+#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/logo/", Astro Rania
 http://iptv.tvmalaysia.cc/penang172/penang172/6729
-#EXTINF:0,Astro Aura
+
+#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/logo/", Astro Aura
 http://iptv.tvmalaysia.cc/penang172/penang172/6713
-#EXTINF:0,Astro Naura HD
+
+#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/logo/", Astro Naura HD
 http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
-#EXTINF:0,Astro Ceria
+
+#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/logo/", Astro Ceria
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
-#EXTINF:0,Astro Arena
+
+#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/logo/", Astro Arena
 http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
-#EXTINF:0,FOX Movies
+
+#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/logo/", FOX Movies
 http://tv.rapidiptv.tvip.xyz/DuKGUKz8xV45/LCDavL115/17137
-#EXTINF:0,Cinemax HD
+
+#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/logo/", Cinemax HD
 http://tv.rapidiptv.tvip.xyz:80/DuKGUKz8xV45/LCDavL115/14629
-#EXTINF:0,HBO
+
+#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/logo/", HBO
 http://tv.rapidiptv.tvip.xyz:80/DuKGUKz8xV45/LCDavL115/14604
-#EXTINF:0,National Geographic HD
+
+#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/logo/", National Geographic HD
 http://tv.rapidiptv.tvip.xyz:80/DuKGUKz8xV45/LCDavL115/3561
-#EXTINF:0,National Geographic Wild HD
+
+#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/logo/", National Geographic Wild HD
 http://tv.rapidiptv.tvip.xyz/DuKGUKz8xV45/LCDavL115/27465
-#EXTINF:0,Animal Planet HD
+
+#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/logo/", Animal Planet HD
 http://tv.rapidiptv.tvip.xyz:80/DuKGUKz8xV45/LCDavL115/8010
-#EXTINF:0,Discovery Channel
+
+#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/logo/", Discovery Channel
 http://tv.rapidiptv.tvip.xyz:80/DuKGUKz8xV45/LCDavL115/1986
-#EXTINF:0,Discovery History
+
+#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/logo/", Discovery History
 http://tv.rapidiptv.tvip.xyz:80/DuKGUKz8xV45/LCDavL115/1985
-#EXTINF:0,Discovery Science
+
+#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/logo/", Discovery Science
 http://tv.rapidiptv.tvip.xyz:80/DuKGUKz8xV45/LCDavL115/2679
-#EXTINF:0,History
+
+#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/logo/", History
 http://gooserace.xyz:2052/batman1/batman1/1525273
-#EXTINF:0,MTV
+
+#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/logo/", MTV
 http://tv.rapidiptv.tvip.xyz:80/DuKGUKz8xV45/LCDavL115/27305
-#EXTINF:0,AXN HD
+
+#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/logo/", AXN HD
 http://tv.rapidiptv.tvip.xyz:80/DuKGUKz8xV45/LCDavL115/14634
-#EXTINF:0,UFC Fight Pass
+
+#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/logo/", UFC Fight Pass
 http://tv.rapidiptv.tvip.xyz:80/DuKGUKz8xV45/LCDavL115/18170
-#EXTINF:0,ESPN
+
+#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/logo/", ESPN
 http://gooserace.xyz:2052/batman1/batman1/2605676
-#EXTINF:0,NICKELODEON
+
+#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/logo/", NICKELODEON
 http://gooserace.xyz:2052/batman1/batman1/2605996
