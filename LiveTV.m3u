@@ -2,73 +2,73 @@
 #EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/Logo/tv1.png?raw=true", TV1
 https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/logo/tv2.png", TV2
+#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/Logo/tv2.png?raw=true", TV2
 https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/logo/tv3.png", TV3
+#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/Logo/tv3.png?raw=true", TV3
 https://raw.githubusercontent.com/ariez4999/xIPTV/master/M3U8/Token/TV3.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/logo/ntv7.png", NTV7
+#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/Logo/ntv7.png?raw=true", NTV7
 https://raw.githubusercontent.com/ariez4999/xIPTV/master/M3U8/Token/NTV7.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/logo/8tv.png", 8TV
+#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/Logo/8tv.png?raw=true", 8TV
 https://raw.githubusercontent.com/ariez4999/xIPTV/master/M3U8/Token/8TV.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/logo/tv9.png", TV9
+#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/Logo/tv9.png?raw=true", TV9
 https://raw.githubusercontent.com/ariez4999/xIPTV/master/M3U8/Token/TV9.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/logo/okey.png", OKEY
+#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/Logo/Okey.png?raw=true", OKEY
 https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/logo/RTM Sports.png", RTM Sports
+#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/Logo/RTM%20Sports.png?raw=true", RTM Sports
 https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/logo/Berita RTM.png", Berita RTM
+#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/Logo/Berita%20RTM.png?raw=true", Berita RTM
 https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/logo/tv-alhijrah.png", Al-Hijrah
+#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/Logo/tv-alhijrah.png?raw=true", Al-Hijrah
 http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/logo/bernama.png", Bernama TV
+#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/Logo/bernama.png?raw=true", Bernama TV
 http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/logo/astro_awani.png", Astro Awani
+#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/Logo/astro_awani.png?raw=true", Astro Awani
 http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/logo/", Astro Ria
+#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/Logo/Astro_Ria.png?raw=true", Astro Ria
 http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/logo/", Astro Prima
+#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/Logo/Astro_Prima.png?raw=true", Astro Prima
 http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/logo/", Astro Oasis
+#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/Logo/Astro_Oasis.png?raw=true", Astro Oasis
 http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/logo/", Astro Warna
+#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/Logo/Astro_Warna.png?raw=true", Astro Warna
 http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/logo/", Astro Citra
+#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/Logo/Astro_Citra.png?raw=true", Astro Citra
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/logo/", Astro Rania
+#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/Logo/Astro_Rania.png?raw=true", Astro Rania
 http://iptv.tvmalaysia.cc/penang172/penang172/6729
 
-#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/logo/", Astro Aura
+#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/Logo/Astro_Aura.png?raw=true", Astro Aura
 http://iptv.tvmalaysia.cc/penang172/penang172/6713
 
-#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/logo/", Astro Naura HD
+#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/Logo/Naura.png?raw=true", Astro Naura
 http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/logo/", Astro Ceria
+#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/Logo/astro_ceria.png?raw=true", Astro Ceria
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/logo/", Astro Arena
+#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/Logo/Astro_Arena.png?raw=true", Astro Arena
 http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/logo/", FOX Movies
+#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/Logo/Fox_Movies.png?raw=true", FOX Movies
 http://tv.rapidiptv.tvip.xyz/DuKGUKz8xV45/LCDavL115/17137
 
-#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/logo/", Cinemax HD
+#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/Logo/cinemax.png?raw=true", Cinemax HD
 http://tv.rapidiptv.tvip.xyz:80/DuKGUKz8xV45/LCDavL115/14629
 
 #EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/logo/", HBO
