@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/logo/tv1.png", TV1
+#EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/logo/tv1.png?raw=true", TV1
 https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/logo/tv2.png", TV2
