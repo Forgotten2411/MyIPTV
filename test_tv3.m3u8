@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:0,Converting https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHX5H4StgKreBg2lsBiYIMT4)/dm/3/x6qp375/d/stream-2-1622298307.ts
+#EXTVLCOPT:network-caching=1000
+https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHX5H4StgKreBg2lsBiYIMT4)/dm/3/x6qp375/d/stream-2-1622298307.ts
+#EXTINF:0,stream-2-1622298820.ts
+#EXTVLCOPT:network-caching=1000
+https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHX5H4StgKreBg2lsBiYIMT4)/dm/3/x6qp375/d/stream-2-1622298820.ts
+#EXTINF:0,Converting https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHX5H4StgKreBg2lsBiYIMT4)/dm/3/x6qp375/d/live-2.m3u8
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:sout=#transcode{vcodec=h264,acodec=mpga,ab=128,channels=2,samplerate=44100,scodec=none}
+#EXTVLCOPT:sout-all
+#EXTVLCOPT:sout-keep
+https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHX5H4StgKreBg2lsBiYIMT4)/dm/3/x6qp375/d/live-2.m3u8
+#EXTINF:0,live-2.m3u8
+#EXTVLCOPT:network-caching=1000
+https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHX5H4StgKreBg2lsBiYIMT4)/dm/3/x6qp375/d/live-2.m3u8
+#EXTINF:0,Converting https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHX5H4StgKreBg2lsBiYIMT4)/dm/3/x6qp375/d/live-2.m3u8
+#EXTVLCOPT:network-caching=1000
+https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHX5H4StgKreBg2lsBiYIMT4)/dm/3/x6qp375/d/live-2.m3u8
+#EXTINF:14400,live-2.m3u8
+#EXTVLCOPT:network-caching=1000
+https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHX5H4StgKreBg2lsBiYIMT4)/dm/3/x6qp375/d/live-2.m3u8
+#EXTINF:0,Converting https://www.tonton.com.my/live/tv3:8888
+#EXTVLCOPT:network-caching=1000
+https://www.tonton.com.my/live/tv3:8888
+#EXTINF:0,Converting https://www.tonton.com.my/live/tv3:8888
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:sout=#transcode{vcodec=h264,acodec=mpga,ab=128,channels=2,samplerate=44100,scodec=none}
+#EXTVLCOPT:sout-all
+#EXTVLCOPT:sout-keep
+https://www.tonton.com.my/live/tv3:8888
