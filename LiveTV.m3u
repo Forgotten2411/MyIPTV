@@ -6,7 +6,8 @@ https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/Logo/tv3.png?raw=true", TV3
-https://raw.githubusercontent.com/ariez4999/xIPTV/master/M3U8/Token/TV3.m3u8
+#https://raw.githubusercontent.com/ariez4999/xIPTV/master/M3U8/Token/TV3.m3u8
+https://raw.githubusercontent.com/Forgotten2411/MyIPTV/main/test_tv3.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/Logo/ntv7.png?raw=true", NTV7
 https://raw.githubusercontent.com/ariez4999/xIPTV/master/M3U8/Token/NTV7.m3u8
