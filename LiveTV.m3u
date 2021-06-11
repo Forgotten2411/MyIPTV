@@ -7,7 +7,7 @@ https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/Logo/tv3.png?raw=true", TV3
 #https://raw.githubusercontent.com/ariez4999/xIPTV/master/M3U8/Token/TV3.m3u8
-https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHeNnwI8UOYADcFrzP3FQHjs)/dm/3/x6qp375/d/live-2.m3u8
+https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHSSohDm2oijkPmfl2eJW7nQ)/dm/3/x6qp375/d/live-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/Logo/ntv7.png?raw=true", NTV7
 https://raw.githubusercontent.com/ariez4999/xIPTV/master/M3U8/Token/NTV7.m3u8
@@ -62,7 +62,7 @@ http://iptv.tvmalaysia.cc/penang172/penang172/6713
 http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/Logo/astro_ceria.png?raw=true", Astro Ceria
-http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+http://iptv.tvmalaysia.cc:80/139664/139664/6715
 
 #EXTINF:-1 tvg-logo="https://github.com/Forgotten2411/MyIPTV/blob/main/Logo/Astro_Arena.png?raw=true", Astro Arena
 http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
